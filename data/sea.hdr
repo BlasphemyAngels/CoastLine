@@ -1,0 +1,22 @@
+ENVI
+description = {
+ File Resize Result, x resize factor: 1.000000, 
+ y resize factor: 1.000000.[Tue Mar 01 15:36:21 2016]}
+samples = 654
+lines   = 299
+bands   = 4
+data type = 12
+interleave = bip
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+map info = {Arbitrary, 1.0000, 1.0000, 7679.0000, 3550.0000, 1.000000e+000, 1.000000e+000, 1, units=Meters}
+x start = 7680
+y start = 5741
+band names = {
+ ROI Resize (Band 1:ZY3_MUX_E117.4_N38.6_20131020_L1A0001453062.tiff), 
+ ROI Resize (Band 2:ZY3_MUX_E117.4_N38.6_20131020_L1A0001453062.tiff), 
+ ROI Resize (Band 3:ZY3_MUX_E117.4_N38.6_20131020_L1A0001453062.tiff), 
+ ROI Resize (Band 4:ZY3_MUX_E117.4_N38.6_20131020_L1A0001453062.tiff)}
+wavelength units = Unknown
+sensor type = Unknown
